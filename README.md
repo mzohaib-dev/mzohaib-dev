@@ -6,36 +6,6 @@ Software Engineer || Full stack web developer
 
 Welcome to my LinkedIn profile! I am a passionate Full Stack Web Developer 👨‍💻 with 4-5 years of expertise in designing, structuring, developing, deploying, and maintaining user-friendly full-stack web applications 🌐. My journey in software engineering began with a bachelor's degree🎓 in Software Engineering. 
 
-My Full Stack Web Development Skills include: 
-F
-ront End Development 
-• React Js
-• Vue Js 
-
-Back End Development 
-• PHP Laravel 
-• Node Js 
-
-Database Design and Development 
-
--Relational 
-• MySQL 
-• PostgreSQL 🗄 
-
--Non-Relational (NoSql) 
-• MongoDB 
-• FireBase 📂 
-
-Software Development + Operation (Devops) 
-
-• Git (BitBucket, GitHub and GitLab) 
-• Docker 🐳 
-• Ci/Cd Pipeline 🌀 
-
-Cloud Software Services 🌩️ 
-
-• AWS ( EC2, S3, DynamoDB, RDS and Elastic Beanstalk ) 
-
 Throughout my career, I have had the privilege of collaborating with clients across diverse industries, including 🛒 e-commerce, 💰 finance, 🎓 education, 🏥 healthcare, and more. 
 
 One of my significant achievements as a software engineer was the development of the Software-as-a-Service (SaaS) platform 🚀. This platform provided businesses💰 with a scalable and customizable solution for launching white-labeled products within a minute. 
