@@ -4,6 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Full stack web developer
 ---------------------------------------------
 
+Welcome to my Github profile! I am a passionate Full Stack Web Developer 👨‍💻 with 4-5 years of expertise in designing, structuring, developing, deploying, and maintaining user-friendly full-stack web applications 🌐. 
+
+One of my significant achievements as a software engineer is the development of the [SAAS](https://happhi.com) platform 🚀.
+
+
 - 🔭 I’m currently Focused on **FullStack (Frontend + Backend + DevOps)**
 
 - 🌱 I’m currently learning **Web 3.0 & Metaverse**
