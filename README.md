@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zohaib</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developer</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Zohaib
+=======================================================================================================================================
+
+Software Engineer || Full stack web developer
+---------------------------------------------
 
 - 🔭 I’m currently Focused on **FullStack (Frontend + Backend + DevOps)**
 
@@ -8,8 +11,6 @@
 - 🛠️ I’m currently working on [HapPhi | AI-Driven White-Label SaaS Platform](https://happhi.com)
 
 - 🤝 I am open to collaborating on **Freelance projects**
-
-- 👨‍💻 All of my projects are available at [https://mzohaib.dev](https://mzohaib.dev)
 
 - 💬 Ask me about **Debugging Tricks!**
 
