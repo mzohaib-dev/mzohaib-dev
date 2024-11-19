@@ -38,6 +38,6 @@ One of my significant achievements as a software engineer is the development of 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mzohaib-dev&show_icons=true&locale=en&layout=compact" alt="mzohaib-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzohaib-dev&show_icons=true&locale=en" alt="mzohaib-dev" /></p>
+<p><br>;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzohaib-dev&show_icons=true&locale=en" alt="mzohaib-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzohaib-dev&" alt="mzohaib-dev" /></p>
