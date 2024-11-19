@@ -19,8 +19,6 @@ One of my significant achievements as a software engineer is the development of 
 
 - 💬 Ask me about **Debugging Tricks!**
 
-- 📫 How to reach me **dev.mzohaib@outlook.com**
-
 - 👨‍💻 Portfolio [mzohaib.dev](https://mzohaib.dev)
 
 - ⚡ Fun fact **Ctrl + Z is MY Best Friend**
