@@ -21,7 +21,7 @@ One of my significant achievements as a software engineer is the development of 
 
 - 📫 How to reach me **dev.mzohaib@outlook.com**
 
-- 👨‍💻 Portfolio [https://mzohaib.dev](https://mzohaib.dev)
+- 👨‍💻 Portfolio [mzohaib.dev](https://mzohaib.dev)
 
 - ⚡ Fun fact **Ctrl + Z is MY Best Friend**
 
