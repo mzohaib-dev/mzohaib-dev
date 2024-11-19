@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Zohaib
 =======================================================================================================================================
 
-Software Engineer || Full stack web developer
+Software Engineer | Full stack web developer
 ---------------------------------------------
 
 Welcome to my Github profile! I am a passionate Full Stack Web Developer 👨‍💻 with 4-5 years of expertise in designing, structuring, developing, deploying, and maintaining user-friendly full-stack web applications 🌐. 
